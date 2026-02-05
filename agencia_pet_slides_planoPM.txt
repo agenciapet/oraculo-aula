@@ -1,0 +1,137 @@
+ANÁLISE DA APRESENTAÇÃO ORIGINAL - AGÊNCIA OPER
+================================================
+
+ESTRUTURA GERAL:
+- Total de 7 slides
+- Tema: Roxo/púrpura dominante com detalhes em ciano/turquesa
+- Público-alvo: Veterinários e pequenas empresas do setor pet
+- Estilo: Moderno, com imagens de animais (cães e gatos)
+
+CONTEÚDO POR SLIDE:
+
+SLIDE 1 - CAPA (Imagem fornecida pelo usuário)
+Título: "PRINCIPAIS PLANOS DE MARKETING DISPONÍVEIS"
+- Fundo roxo com padrão geométrico sutil
+- Imagens de gatos (Maine Coon, filhote laranja, gato malhado pulando, gato cinza)
+- Logo da Agência Oper (canto inferior central)
+- Nota: "Orçamento válido por 30 dias"
+
+SLIDE 2 - INTRODUÇÃO
+Título: "CONHEÇA NOSSAS OPÇÕES DE PLANOS PARA SUA EMPRESA"
+- Fundo roxo
+- Imagens de cães (Pinscher, Beagle, Husky)
+- Logo Oper no topo
+- Nota: "Orçamento válido por 30 dias"
+
+SLIDE 3 - GESTÃO DE REDES SOCIAIS
+Título: "O QUE TEM NA GESTÃO DAS REDES SOCIAIS?"
+Subtítulo: "Gestão do Meta - Instagram + Facebook"
+Conteúdo:
+- Redatora para legendas e temas
+- Designer para as artes e edição de vídeos
+- Estratégias e linha editorial
+- Agendamento e postagem
+- Orientação para vídeos e fotos da equipe
+- Roteiros para gravações e stories
+Palavra de destaque: "MARKETING" (em grande)
+Imagens: Cães em poses divertidas
+
+SLIDE 4 - PLANOS DE MARKETING
+Título: "TEMOS 3 PLANOS DE MARKETING PARA VETERINÁRIOS E PEQUENAS EMPRESAS"
+- Fundo roxo limpo
+- Logo Oper no canto superior esquerdo
+
+SLIDE 5 - COMPARAÇÃO DE PLANOS (3 colunas)
+
+PLANO PINSCHER - "Pequeno, mas corajoso!"
+Preço: R$ 2.595 Mensal
+Postagens: 6 postagens
+Inclui:
+✓ Gestão do Meta (Facebook + Instagram)
+✓ Estratégia e planejamento de marketing
+✓ Roteiros e edições de vídeos
+✗ Meta ads (Anúncios Facebook e Instagram)
+✗ Gestão de Google Meu Negócio
+✗ Google Ads (anúncios)
+✗ Gestão de blog no site
+Nota: *Contrato mínimo de 6 meses
+Orçamento válido por 30 dias
+
+PLANO BEAGLE - "Inteligente e determinado!"
+Preço: R$ 2.887 Mensal
+Postagens: 12 postagens
+Inclui:
+✓ Gestão do Meta (Facebook + Instagram)
+✓ Estratégia e planejamento de marketing
+✓ Roteiros e edições de vídeos
+✓ Meta ads (Anúncios Facebook e Instagram)
+✓ Gestão de Google Meu Negócio
+✗ Google Ads (anúncios)
+✗ Gestão de blog no site
+Nota: *Contrato mínimo de 6 meses
+Orçamento válido por 30 dias
+
+PLANO HUSKY - "Invejável e Incrível!" [DESTAQUE: Mais comprado e melhor custo-benefício]
+Preço: R$ 3.245 Mensal
+Postagens: 12 postagens
+Inclui:
+✓ Gestão do Meta (Facebook + Instagram)
+✓ Estratégia e planejamento de marketing
+✓ Roteiros e edições de vídeos
+✓ Meta ads (Anúncios Facebook e Instagram)
+✓ Gestão de Google Meu Negócio
+✓ Google Ads (anúncios)
+✓ Gestão de blog no site
+Nota: *Contrato mínimo de 6 meses
+Orçamento válido por 30 dias
+
+Rodapé: "Gostaria de planos maiores com mais serviços incluídos? Entre em contato conosco e conheça outros planos"
+
+SLIDE 6 - SERVIÇOS ADICIONAIS
+Título: "UMA AGÊNCIA - MUITOS SERVIÇOS"
+Subtítulo: "Somos uma Agência exclusiva para Veterinários, mas completa em serviços:"
+Lista de serviços:
+- Criação de conteúdos para redes sociais
+- Edição de vídeos
+- Criação de identidade visual (logo)
+- Desenvolvimento de site
+- Anúncios no Google e nas redes sociais
+- Respostas para reclamações e comentários no Google e no Reclame Aqui
+- E-mail marketing
+- Criação de sinalizações obrigatórias para estabelecimentos veterinários
+- Diagramação de ebooks, PDFs, apresentações
+- e muito mais...
+
+SLIDE 7 - SITE INSTITUCIONAL
+Título: "Quer incluir um site para sua empresa?"
+Mockup de laptop mostrando site exemplo (Hospital para gatos)
+
+Card lateral: "SITE INSTITUCIONAL - Seja encontrado no Google"
+Preço: R$ 3.550
+Inclui:
+✓ Site da sua empresa com SEO
+✓ Páginas de serviços, sobre, contatos e depoimentos
+✓ Mostre fotos do seu espaço físico
+✓ Com página de blog para seus artigos
+✓ Otimizada para anúncios
+
+Condição especial:
+"Condição especial de pagamento para clientes dos planos de marketing mensais: 12 parcelas de R$ 395 no boleto"
+
+SLIDE 8 - CALL TO ACTION FINAL
+Título: "Escolha o plano mais adaptado às necessidades da sua empresa"
+Subtítulo: "Agende uma reunião ou entre em contato pelo Whatsapp para maiores informações e para dúvidas."
+Dois botões grandes:
+- "Nosso Site" (ciano)
+- "Whatsapp" (ciano)
+
+ELEMENTOS VISUAIS RECORRENTES:
+- Logo Agência Oper (gato branco em círculo roxo + texto "pet" em ciano)
+- Fundo roxo (#5B2C91 aproximadamente)
+- Cor secundária: ciano/turquesa (#00D4C8 aproximadamente)
+- Imagens de animais de estimação em poses profissionais
+- Tipografia bold e moderna
+- Ícones de check (✓) verde e X (✗) vermelho para features
+
+OBJETIVO DA APRESENTAÇÃO:
+Apresentar 3 planos de marketing digital (Pinscher, Beagle, Husky) para veterinários e pequenas empresas do setor pet, com opção adicional de site institucional.
